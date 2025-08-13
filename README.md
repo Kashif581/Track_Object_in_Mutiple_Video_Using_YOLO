@@ -11,7 +11,7 @@ This project is about how to use Ultralytics YOLOv8s and YOLOv8n to detect objec
 
 ## Step 1: Fork the Repo
 
-## Step 2: clone the Repo into your local computer
+## Step 2: clone the Repo onto your local machine
 
 `git clone https://github.com/Kashif581/Track_Object_in_Mutiple_Video_Using_YOLO.git`
 
